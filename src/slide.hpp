@@ -1,3 +1,1 @@
-#include <string>
-
-std::string slide();
+void arrayShift(int arr[], int size, int shifts);
